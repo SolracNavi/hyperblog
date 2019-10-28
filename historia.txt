@@ -4,14 +4,6 @@ Carlos Ponticelli tiene 38 años y nació en Argentina
 
 Mañana nos enfocaremos en su vida laboral
 
-<<<<<<< HEAD
 Master 2
-=======
-Hoy es mañana, de la misma manera que mañana será ayer. La vida laboral de Carlos es confusa y revirada.
-Construye estufas de diseño, produce insumos para artesanos, y está aprendiendo programación con el fin
-de conseguir trabajos remotos y mejorar sus ingresos y los de su familia.
-
-Experimento 2
 
 Master 1
->>>>>>> Exp 1
